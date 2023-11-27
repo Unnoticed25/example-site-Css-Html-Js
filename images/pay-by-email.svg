@@ -1,0 +1,14 @@
+<svg width="49" height="48" viewBox="0 0 49 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_82_286" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="49" height="48">
+<circle cx="24.9926" cy="24" r="24" transform="rotate(-45 24.9926 24)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_82_286)">
+<line x1="-66.1647" y1="47.1565" x2="43.7956" y2="-62.8038" stroke="#621AFB" stroke-width="7.5"/>
+<line x1="-56.3904" y1="56.9308" x2="53.5699" y2="-53.0295" stroke="#621AFB" stroke-width="7.5"/>
+<line x1="-46.6162" y1="66.705" x2="63.344" y2="-43.2553" stroke="#621AFB" stroke-width="7.5"/>
+<line x1="-36.842" y1="76.4793" x2="73.1183" y2="-33.481" stroke="#621AFB" stroke-width="7.5"/>
+<line x1="-27.0678" y1="86.2535" x2="82.8925" y2="-23.7067" stroke="#621AFB" stroke-width="7.5"/>
+<line x1="-17.2935" y1="96.0278" x2="92.6668" y2="-13.9325" stroke="#621AFB" stroke-width="7.5"/>
+<line x1="-7.5192" y1="105.802" x2="102.441" y2="-4.15823" stroke="#621AFB" stroke-width="7.5"/>
+</g>
+</svg>
