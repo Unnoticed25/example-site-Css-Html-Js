@@ -1,1 +1,1 @@
-# example-site-Css-Html-Js-
+Верстка сайта по макету на чистом Js + html/css
